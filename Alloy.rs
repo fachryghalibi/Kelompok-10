@@ -97,3 +97,12 @@ pred PaymentScenario {
 }
 
 run PaymentScenario for 5
+
+// Fitur-fitur Sistem
+// - Proses pendaftaran pengguna (Customer/Merchant)
+// - Manajemen kartu kredit
+// - Melakukan transaksi pembayaran
+// - Menampilkan riwayat transaksi
+// - Notifikasi untuk transaksi berhasil/gagal
+// - Pengelolaan batas kredit
+// - Jenis pembayaran (kredit/debit)
